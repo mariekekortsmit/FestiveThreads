@@ -1,4 +1,4 @@
-# FestiveThreads: Christmas Tree Light Synchronization Simulator
+# FestiveThreads: Christmas Tree Light Synchronization Simulator 🎄
 
 ## Overview
 FestiveThreads is a console application that simulates a Christmas tree light display synchronized to CPU usage. This application leverages multiple threads, each controlling a light on the tree, reflecting real-time CPU utilization.
